@@ -153,7 +153,7 @@ header {
 }
 
 #nav li {
-    font-size: 14px;
+    /* font-size: 14px; */
     padding: 0;
 }
 
@@ -303,7 +303,7 @@ footer {
 .progress {
     position: relative;
     height: 25px;
-    margin-bottom: 4px;
+    /* margin-bottom: 4px; */
 }
 .progress-type {
     position: absolute;
